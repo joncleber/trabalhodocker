@@ -4,7 +4,7 @@ ConvergentesTrabalhoDocker
 
 Alunos 
 
-Cleber Batista dos Santos 1610741
-
+Cleber Batista dos Santos   1610741
+João Vitor Rogacheski       1608619 
 
 
